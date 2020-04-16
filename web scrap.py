@@ -25,6 +25,9 @@ results = soup.find(id='ResultsContainer')
 
 job_elems = results.find_all('section', class_='card-content')
 
+file = open("./registro.html", "w")
+
+
 for job_elem in job_elems:
     # Each job_elem is a new BeautifulSoup object.
     # You can use the same methods on it as you did before.
@@ -35,13 +38,11 @@ for job_elem in job_elems:
     print(company_elem)
     print(location_elem)
     
-    file = open("./registro.html", "w")
     file.write(str(title_elem))
     file.write(str(company_elem))
-    file.write(str(location_elem))
-    file.close()
-    
+    file.write(str(location_elem))    
     print()
 
+file.close()
 
 #print(job_elem.prettify())
