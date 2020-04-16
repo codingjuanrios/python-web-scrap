@@ -1,0 +1,294 @@
+[<section class="card-content" data-jobid="56d17f16-f07d-4271-abda-b80155837c80" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail is-loaded">
+<img alt="LanceSoft Inc" src="https://media.newjobs.com/clu/xlan/xlancesinx/branding/164991/LanceSoft-Inc-logo.png"/>
+</div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="10" data-m_impr_j_coc="" data-m_impr_j_jawsid="359506666" data-m_impr_j_jobid="0" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="40.75" data-m_impr_j_lid="550" data-m_impr_j_long="-73.9967" data-m_impr_j_occid="11709" data-m_impr_j_p="1" data-m_impr_j_postingid="56d17f16-f07d-4271-abda-b80155837c80" data-m_impr_j_pvc="4496dab8-a60c-4f02-a2d1-6213320e7213" data-m_impr_s_t="t" data-m_impr_uuid="dc7f16fb-cfd3-43fe-be6a-fe937bef37c4" href="https://job-openings.monster.com/sql-bi-ssrs-ssis-developer-for-blackboard-nyc-new-york-wa-us-lancesoft-inc/56d17f16-f07d-4271-abda-b80155837c80" onclick="clickJobTitle('plid=550&amp;pcid=10&amp;poccid=11709','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;SQL BI (SSRS, SSIS) developer for Blackboard - NYC&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_LanceSoft Inc&quot;,&quot;eVar31&quot;:&quot;New york_WA_&quot;,&quot;prop24&quot;:&quot;2019-07-02T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">SQL BI (SSRS, SSIS) developer for Blackboard - NYC
+</a></h2>
+</header>
+<div class="company">
+<span class="name">LanceSoft Inc</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+New york, WA
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">+30 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content apas-ad" data-mux="searchResultsAds" style="display:none">
+<div id="bad1"></div>
+</section>, <section class="card-content" data-jobid="4755ec59-d0db-4ce9-8385-b4df7c1e9f7c" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail is-loaded">
+<img alt="LanceSoft Inc" src="https://media.newjobs.com/clu/xlan/xlancesinx/branding/164991/LanceSoft-Inc-logo.png"/>
+</div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="" data-m_impr_j_jawsid="371676273" data-m_impr_j_jobid="0" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="30.1882" data-m_impr_j_lid="619" data-m_impr_j_long="-95.6732" data-m_impr_j_occid="11838" data-m_impr_j_p="2" data-m_impr_j_postingid="4755ec59-d0db-4ce9-8385-b4df7c1e9f7c" data-m_impr_j_pvc="4496dab8-a60c-4f02-a2d1-6213320e7213" data-m_impr_s_t="t" data-m_impr_uuid="b4c96e59-82e1-4818-8879-f11a9bdac56d" href="https://job-openings.monster.com/python-developer-woodlands-wa-us-lancesoft-inc/4755ec59-d0db-4ce9-8385-b4df7c1e9f7c" onclick="clickJobTitle('plid=619&amp;pcid=4&amp;poccid=11838','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Python Developer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_LanceSoft Inc&quot;,&quot;eVar31&quot;:&quot;Woodlands_WA_&quot;,&quot;prop24&quot;:&quot;2019-07-02T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">Python Developer
+</a></h2>
+</header>
+<div class="company">
+<span class="name">LanceSoft Inc</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+Woodlands, WA
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">+30 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content" data-jobid="fcb03051-f03f-4d58-8198-09bcd25371db" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail is-loaded">
+<img alt="Mediaocean" src="https://coda.newjobs.com/api/imagesproxy/ms/mm/xmediaoceanx/cjt/logo.jpg"/>
+</div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="" data-m_impr_j_jawsid="418231710" data-m_impr_j_jobid="517148" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="0" data-m_impr_j_lid="0" data-m_impr_j_long="0" data-m_impr_j_occid="11838" data-m_impr_j_p="3" data-m_impr_j_postingid="fcb03051-f03f-4d58-8198-09bcd25371db" data-m_impr_j_pvc="6232df37-d6a8-4d8d-8427-26e9c9101837" data-m_impr_s_t="t" data-m_impr_uuid="b516ea86-d281-4800-8cf1-f2ad414672ba" href="https://job-openings.monster.com/junior-qa-analyst-melbourne-victoria-melbourne-vic-us-mediaocean/fcb03051-f03f-4d58-8198-09bcd25371db" onclick="clickJobTitle('plid=0&amp;pcid=4&amp;poccid=11838','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Junior QA Analyst - Melbourne, Victoria&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_Mediaocean&quot;,&quot;eVar31&quot;:&quot;Melbourne_VIC_&quot;,&quot;prop24&quot;:&quot;2020-01-17T12:00&quot;,&quot;eVar53&quot;:&quot;1700192001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">Junior QA Analyst - Melbourne, Victoria
+</a></h2>
+</header>
+<div class="company">
+<span class="name">Mediaocean</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+Melbourne, VIC
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">+30 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content" data-jobid="ee860a5c-6a41-4b89-8d62-5c01e92fa28b" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail"></div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="" data-m_impr_j_jawsid="428017743" data-m_impr_j_jobid="13350083" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="0" data-m_impr_j_lid="0" data-m_impr_j_long="0" data-m_impr_j_occid="11838" data-m_impr_j_p="4" data-m_impr_j_postingid="ee860a5c-6a41-4b89-8d62-5c01e92fa28b" data-m_impr_j_pvc="cec47324-719f-422e-89c2-4119fbb22642" data-m_impr_s_t="t" data-m_impr_uuid="36ab3fb8-1664-431e-b17c-998970133ba2" href="https://job-openings.monster.com/test-analyst-canberra-act-us-dialog-group/ee860a5c-6a41-4b89-8d62-5c01e92fa28b" onclick="clickJobTitle('plid=0&amp;pcid=4&amp;poccid=11838','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Test Analyst&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_Dialog Group&quot;,&quot;eVar31&quot;:&quot;Canberra_ACT_&quot;,&quot;prop24&quot;:&quot;2020-03-24T12:00&quot;,&quot;eVar53&quot;:&quot;1700192001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">Test Analyst
+</a></h2>
+</header>
+<div class="company">
+<span class="name">Dialog Group</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+Canberra, ACT
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">23 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content" data-jobid="7a5ff034-457e-4b80-91e1-5aabe5e4d462" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail"></div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="" data-m_impr_j_jawsid="419856460" data-m_impr_j_jobid="12924578" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="0" data-m_impr_j_lid="0" data-m_impr_j_long="0" data-m_impr_j_occid="11838" data-m_impr_j_p="5" data-m_impr_j_postingid="7a5ff034-457e-4b80-91e1-5aabe5e4d462" data-m_impr_j_pvc="cec47324-719f-422e-89c2-4119fbb22642" data-m_impr_s_t="t" data-m_impr_uuid="ec886222-fbc8-4736-8037-2548aa65d17f" href="https://job-openings.monster.com/test-consultant-brisbane-qld-us-dialog-group/7a5ff034-457e-4b80-91e1-5aabe5e4d462" onclick="clickJobTitle('plid=0&amp;pcid=4&amp;poccid=11838','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Test Consultant&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_Dialog Group&quot;,&quot;eVar31&quot;:&quot;Brisbane_QLD_&quot;,&quot;prop24&quot;:&quot;2020-02-14T12:00&quot;,&quot;eVar53&quot;:&quot;1700192001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">Test Consultant
+</a></h2>
+</header>
+<div class="company">
+<span class="name">Dialog Group</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+Brisbane, QLD
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">+30 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content" data-jobid="009c9418-f3f2-489e-b1fd-12b5189ff204" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail is-loaded">
+<img alt="Mediaocean" src="https://coda.newjobs.com/api/imagesproxy/ms/mm/xmediaoceanx/cjt/logo.jpg"/>
+</div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="545" data-m_impr_j_coc="" data-m_impr_j_jawsid="428765310" data-m_impr_j_jobid="523897" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="0" data-m_impr_j_lid="0" data-m_impr_j_long="0" data-m_impr_j_occid="11738" data-m_impr_j_p="6" data-m_impr_j_postingid="009c9418-f3f2-489e-b1fd-12b5189ff204" data-m_impr_j_pvc="6232df37-d6a8-4d8d-8427-26e9c9101837" data-m_impr_s_t="t" data-m_impr_uuid="3563a76c-f4a5-4459-a4f3-822b24d83728" href="https://job-openings.monster.com/customer-experience-technical-analyst-sydney-new-south-wales-sydney-nsw-us-mediaocean/009c9418-f3f2-489e-b1fd-12b5189ff204" onclick="clickJobTitle('plid=0&amp;pcid=545&amp;poccid=11738','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Customer Experience Technical Analyst - Sydney, New South Wales&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_Mediaocean&quot;,&quot;eVar31&quot;:&quot;Sydney_NSW_&quot;,&quot;prop24&quot;:&quot;2020-04-02T12:00&quot;,&quot;eVar53&quot;:&quot;4300715001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">Customer Experience Technical Analyst - Sydney, New South Wales
+</a></h2>
+</header>
+<div class="company">
+<span class="name">Mediaocean</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+Sydney, NSW
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">14 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content apas-ad" data-mux="searchResultsAds" style="display:none">
+<div id="bad2"></div>
+</section>, <section class="card-content" data-jobid="dceff465-7b62-4307-98eb-92caaa724500" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail"></div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="10" data-m_impr_j_coc="" data-m_impr_j_jawsid="392221716" data-m_impr_j_jobid="0" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="40.8516" data-m_impr_j_lid="406" data-m_impr_j_long="-93.26" data-m_impr_j_occid="11801" data-m_impr_j_p="7" data-m_impr_j_postingid="dceff465-7b62-4307-98eb-92caaa724500" data-m_impr_j_pvc="d62b8aa9-0613-48d5-815d-47f70d73be0d" data-m_impr_s_t="t" data-m_impr_uuid="583bb2e0-660d-4705-ac52-f038398a7d3c" href="https://job-openings.monster.com/senior-practice-manager-ies-wa-new-york-wa-us-blue-ocean-ventures/dceff465-7b62-4307-98eb-92caaa724500" onclick="clickJobTitle('plid=406&amp;pcid=10&amp;poccid=11801','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Senior Practice Manager - IES (WA)&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_Blue Ocean Ventures&quot;,&quot;eVar31&quot;:&quot;New York_WA_&quot;,&quot;prop24&quot;:&quot;2019-08-06T12:00&quot;,&quot;eVar53&quot;:&quot;1100047001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">Senior Practice Manager - IES (WA)
+</a></h2>
+</header>
+<div class="company">
+<span class="name">Blue Ocean Ventures</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+New York, WA
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">+30 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content" data-jobid="4277ac89-a5e3-4e3e-966d-5659d81b5b33" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<div class="flex-row">
+<div class="mux-company-logo thumbnail"></div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="" data-m_impr_j_jawsid="428017737" data-m_impr_j_jobid="13350089" data-m_impr_j_jpm="2" data-m_impr_j_jpt="3" data-m_impr_j_lat="0" data-m_impr_j_lid="0" data-m_impr_j_long="0" data-m_impr_j_occid="11838" data-m_impr_j_p="8" data-m_impr_j_postingid="4277ac89-a5e3-4e3e-966d-5659d81b5b33" data-m_impr_j_pvc="cec47324-719f-422e-89c2-4119fbb22642" data-m_impr_s_t="t" data-m_impr_uuid="bce2f26b-bf5f-40b3-8472-04a5c151a0f4" href="https://job-openings.monster.com/senior-automation-tester-canberra-act-us-dialog-group/4277ac89-a5e3-4e3e-966d-5659d81b5b33" onclick="clickJobTitle('plid=0&amp;pcid=4&amp;poccid=11838','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Senior Automation Tester&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;_Dialog Group&quot;,&quot;eVar31&quot;:&quot;Canberra_ACT_&quot;,&quot;prop24&quot;:&quot;2020-03-24T12:00&quot;,&quot;eVar53&quot;:&quot;1700192001001&quot;,&quot;eVar50&quot;:&quot;Aggregated&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">Senior Automation Tester
+</a></h2>
+</header>
+<div class="company">
+<span class="name">Dialog Group</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+Canberra, ACT
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">23 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>, <section class="card-content" data-jobid="217263127" data-postingid="a7886227-207e-4dcc-888f-26914bc92018" data-ssr="true" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+<p class="entry">Interesting opportunity</p> <div class="flex-row">
+<div class="mux-company-logo thumbnail is-loaded">
+<img alt="CyberCoders" src="https://media.newjobs.com/clu/xcyb/xcyberc3x/branding/6344/CyberCoders-logo.jpg"/>
+</div>
+<div class="summary">
+<header class="card-header">
+<h2 class="title"><a data-bypass="true" data-m_impr_a_placement_id="JSRSEC" data-m_impr_j_cid="660" data-m_impr_j_coc="xcyberc3x" data-m_impr_j_jawsid="429542195" data-m_impr_j_jobid="217263127" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="38.6405" data-m_impr_j_lid="0" data-m_impr_j_long="-90.6464" data-m_impr_j_occid="11970" data-m_impr_j_p="9" data-m_impr_j_postingid="a7886227-207e-4dcc-888f-26914bc92018" data-m_impr_j_pvc="monster" data-m_impr_s_t="m" data-m_impr_uuid="872b64a3-eb71-44ba-8522-99f0e54f5773" href="https://job-openings.monster.com/software-developer-c-asp-net-healthcare-software-company-chesterfield-mo-us-cybercoders/217263127" onclick="clickJobTitle('plid=0&amp;pcid=660&amp;poccid=11970','Software Developer',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;events.event65&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Software Developer (C# / ASP.NET) - Healthcare Software Company&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSRSEC&quot;,&quot;eVar26&quot;:&quot;xcyberc3x_CyberCoders&quot;,&quot;eVar31&quot;:&quot;Chesterfield_MO_&quot;,&quot;prop22&quot;:&quot;Full-Time&quot;,&quot;prop24&quot;:&quot;2020-04-13T04:04&quot;,&quot;eVar47&quot;:&quot;monster&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">Software Developer (C# / ASP.NET) - Healthcare Software Company
+</a></h2>
+</header>
+<div class="company">
+<span class="name">CyberCoders</span>
+<ul class="list-inline">
+</ul>
+</div>
+<div class="location">
+<span class="name">
+Chesterfield, MO
+</span>
+</div>
+</div>
+<div class="meta flex-col">
+<time datetime="2017-05-26T12:00">3 days ago</time>
+<span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+<i aria-hidden="true" class="icon icon-applied"></i>
+<span class="sr-only">Applied</span>
+</span>
+<span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+<i aria-hidden="true" class="icon icon-saved"></i>
+<span class="sr-only">Saved</span>
+</span>
+</div>
+</div>
+</section>]
